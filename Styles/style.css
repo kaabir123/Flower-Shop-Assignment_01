@@ -175,10 +175,6 @@ header {
 
 }
 
-.extra {
-    /* margin-top: 20px; */
-}
-
 /* Feature Section End Here */
 /* ----------------------------------- */
 
@@ -208,8 +204,6 @@ header {
     text-align: center;
 }
 
-.support-icon {}
-
 .support-desc {
     margin-top: 20px;
     color: rgba(39, 39, 39, 0.80);
@@ -223,3 +217,4 @@ header {
 
 
 /* Support Section End Here */
+/* ------------------------------ */
