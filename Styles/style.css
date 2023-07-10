@@ -13,6 +13,7 @@ body {
 
 .container {
     max-width: 1440px;
+    margin: 0 auto;
 }
 
 /* Common Css End Here */
@@ -32,7 +33,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 150px 250px;
+    padding: 150px 0px;
 }
 
 .banner-heading {
@@ -84,6 +85,7 @@ header {
 /* Feature Section Start Here */
 .feature-section {
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 .feature-heading {
@@ -170,10 +172,54 @@ header {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+
 }
-.extra{
+
+.extra {
     /* margin-top: 20px; */
 }
 
 /* Feature Section End Here */
 /* ----------------------------------- */
+
+
+/* Support Section Start Here */
+
+.support-section {
+    height: 320px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+
+.support_1 {
+    text-align: center;
+}
+
+.support_2 {
+    text-align: center;
+}
+
+.support_3 {
+    text-align: center;
+}
+
+.support-icon {}
+
+.support-desc {
+    margin-top: 20px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+
+/* Support Section End Here */
