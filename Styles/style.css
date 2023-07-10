@@ -16,13 +16,14 @@ body {
 }
 
 /* Common Css End Here */
+/* --------------------------- */
 
 
 /* Banner Section Start Here */
 
 header {
     background: rgba(229, 84, 115, 0.10);
-    margin-bottom: 100px;
+    margin-bottom: 180px;
 }
 
 .banner-section {
@@ -78,3 +79,101 @@ header {
 
 
 /* Banner Section End Here */
+/* ----------------------------------- */
+
+/* Feature Section Start Here */
+.feature-section {
+    margin-top: 20px;
+}
+
+.feature-heading {
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.feature-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.flower-gallary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+
+}
+
+.flower_1 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+}
+
+.flower_2 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    text-align: center;
+
+}
+
+.flower_3 {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    text-align: center;
+}
+
+.flower_1 img {
+    margin-top: 110px;
+}
+
+.flower_2 img {
+    margin-top: 110px;
+    margin-bottom: 60px;
+}
+
+.flower_3 img {
+    margin-top: 67px;
+}
+
+.flower-name {
+    margin-top: 25px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+.extra{
+    /* margin-top: 20px; */
+}
+
+/* Feature Section End Here */
+/* ----------------------------------- */
