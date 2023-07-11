@@ -287,7 +287,6 @@ header {
 
 /* Instagram Section Start Here */
 
-.instagram-section {}
 
 .insta-heading {
 
@@ -321,12 +320,77 @@ header {
     margin-bottom: 100px;
 }
 
-.image-section {}
-
-.image-section img {}
-
-
-
 
 /* Instagram Section End Here */
+/* ------------------------------ */
+
+
+/* Form Section Start Here */
+.form-section {
+    background-image: url('/images/Rectangle\ 9.png');
+    border-radius: 8px;
+    height: 449px;
+    margin-bottom: 150px;
+    text-align: center;
+
+}
+
+.form-heading {
+    color: rgb(39, 39, 39);
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    /* margin-top: 0px; */
+    padding: 80px 0;
+    padding-top: 135px;
+}
+
+.form-desc {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-top: -60px;
+}
+
+input[type="email"] {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    padding: 15px 21px;
+    width: 660px;
+    height: 30px;
+}
+
+input[type="submit"] {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 18px 30px;
+    border: 0;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+
+/* Form Section End Here */
 /* ------------------------------ */
