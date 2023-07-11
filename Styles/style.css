@@ -218,3 +218,115 @@ header {
 
 /* Support Section End Here */
 /* ------------------------------ */
+
+
+/* Deal Section Start Here */
+
+.deal-section {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 150px;
+}
+
+.deal {
+    height: 640px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.deal-heading {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin-bottom: 25px;
+}
+
+.deal-btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.deal-heading .style_1 {
+    color: #E55473;
+}
+
+
+
+/* Deal Section End Here */
+/* --------------------------- */
+
+
+/* Instagram Section Start Here */
+
+.instagram-section {}
+
+.insta-heading {
+
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.insta-desc {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.insta-gallary-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.image-section {}
+
+.image-section img {}
+
+
+
+
+/* Instagram Section End Here */
+/* ------------------------------ */
