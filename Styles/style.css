@@ -394,3 +394,52 @@ input[type="submit"] {
 
 /* Form Section End Here */
 /* ------------------------------ */
+
+
+/* Footer section Start Here  */
+
+.footer-section {
+    padding: 150px 20px;
+    background-color: #111010;
+    text-align: center;
+}
+
+.footer-heading {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.footer-heading .footer-heading-style {
+    color: #E55473;
+}
+
+.footer-desc {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+    margin: 35px auto;
+}
+
+.footer-section p {
+
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+/* Footer section End Here */
+/* ------------------------------ */
