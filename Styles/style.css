@@ -285,6 +285,61 @@ header {
 /* --------------------------- */
 
 
+
+/* Big Deal Start Here */
+.big-deal-section{
+    gap: 50px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-bottom: 100px;
+}
+
+
+.deal-banner-left {
+    background-image: url('../images/extra_01.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 118px 350px;
+    border-radius: 8px;
+}
+.big-deal-header {
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: -250px;
+    margin-bottom: 20px;
+}
+.big-deal-center-header {
+    /* margin-right: 148px; */
+    margin-left: -250px;
+    width: 170px;
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.shop-now-btn {
+    margin-left: -250px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.deal-banner-right{
+    background-image: url('../images/extra_02.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 118px 350px;
+    border-radius: 8px;
+}
+
+
+
+
+
+/* Big Deal End Here */
+/* --------------------------- */
+
+
+
 /* Instagram Section Start Here */
 
 
